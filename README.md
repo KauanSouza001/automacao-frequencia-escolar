@@ -69,3 +69,12 @@ Depois, basta substituir os valores no código principal.
 1. Instale o Python  
 2. Instale a biblioteca necessária: pip install pyautogui
 3. Execute o script principal: python automacao_frequencia_escolar.py
+   
+## 🎥 Demonstração
+
+[Assista ao vídeo](https://youtu.be/yu0XfN1EF1Y)
+## 📊 Resultados
+
+- Redução de tempo em tarefas repetitivas
+- Automatização de processos manuais
+- Maior eficiência operacional
